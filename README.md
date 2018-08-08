@@ -1,6 +1,6 @@
 # JScalculator
 
-See Project in Browser: https://casedo.github.io/calculator/
+See Project in Browser: https://CanerSezgin.github.io/calculator/
 
 This is another project which was created as part of OdinProject - Web Development 101 classes. <br>
 More Details: https://www.theodinproject.com/courses/web-development-101/lessons/calculator?ref=lnav 
